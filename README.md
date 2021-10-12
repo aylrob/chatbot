@@ -1,9 +1,7 @@
-# chatbot
+# Chatbot Challenge
 
-To run:
-
-# install node modules
+# Install node modules
 npm install
 
-# run
+# Run
 node index.js
