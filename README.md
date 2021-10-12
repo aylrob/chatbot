@@ -2,7 +2,7 @@
 
 To run:
 
-# install node modu
+# install node modules
 npm install
 
 # run
